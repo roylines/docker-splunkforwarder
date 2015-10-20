@@ -4,5 +4,5 @@ Simple dockerfile for testing the [Splunk Universal Forwarder](http://www.splunk
 # get started 
 ```
 docker pull roylines/splunkforwarder
-docker run -ti roylines/splunkforwarder /bin/sh
+docker run -ti roylines/splunkforwarder /bin/bash
 ```
